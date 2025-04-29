@@ -43,7 +43,4 @@ O fluxo principal é:
 
 ---
 
-###  Diagrama em Camadas
-
-Você precisa criar algo nesse estilo no **draw.io** (ou outra ferramenta de diagramação), exportar a imagem e adicionar no repositório:
-
+Link do Wokwi: https://wokwi.com/projects/429593279758081025
