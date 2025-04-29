@@ -39,7 +39,7 @@ O diagrama apresenta três camadas:
 - **Application Layer**: Aplicativo Web que consome as APIs e exibe as informações ao usuário.
 
 O fluxo principal é:
-1. Sensores captam dados ➔ 2. Microcontrolador processa e envia ➔ 3. Back-end armazena e disponibiliza ➔ 4. Aplicativo exibe as informações.
+1. Sensores captam dados - 2. Microcontrolador processa e envia - 3. Back-end armazena e disponibiliza - 4. Aplicativo exibe as informações.
 
 ---
 
